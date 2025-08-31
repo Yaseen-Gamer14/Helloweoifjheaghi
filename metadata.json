@@ -1,0 +1,5 @@
+{
+  "name": "Donation Alert Simulator",
+  "description": "A web application that simulates donation alerts. Users can input a donator's name, an amount, and a message, then trigger a sound effect followed by a text-to-speech announcement of the donation.",
+  "requestFramePermissions": []
+}
